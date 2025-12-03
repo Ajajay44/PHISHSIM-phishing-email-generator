@@ -35,8 +35,8 @@ This software is developed for **Authorized Security Testing** and **Educational
     ```
 
 3.  **Configuration**
-    Open `smart_phish.py` and update the following:
-    * `SENDER_EMAIL`: Your dummy Gmail address.
+    Open `phishsim.py` and update the following:
+    * `SENDER_EMAIL`: Your Sender Gmail address.
     * `SENDER_PASSWORD`: Your Google App Password (not login password).
     * `GEMINI_API_KEY`: Your API key from Google AI Studio.
 
@@ -46,3 +46,6 @@ Run the script in your terminal:
 
 ```bash
 python phishsim.py
+
+Demo Screenshots:
+![alt text](Screenshot 2025-12-03 161942.png)
