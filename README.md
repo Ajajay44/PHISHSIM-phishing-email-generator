@@ -48,5 +48,9 @@ Run the script in your terminal:
 python phishsim.py
 ```
 Demo Screenshots:
+
 ![Demo Screenshots](<demo2.png>)
+
+
+
 ![Demo Screenshots](<demo1.png>)
