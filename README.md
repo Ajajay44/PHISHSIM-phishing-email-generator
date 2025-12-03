@@ -48,4 +48,4 @@ Run the script in your terminal:
 python phishsim.py
 
 Demo Screenshots:
-![alt text](Screenshot 2025-12-03 161942.png)
+![Demo](demo2.png)
