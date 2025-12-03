@@ -25,8 +25,8 @@ This software is developed for **Authorized Security Testing** and **Educational
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ai-phishing-sim.git](https://github.com/YOUR_USERNAME/ai-phishing-sim.git)
-    cd ai-phishing-sim
+    git clone https://github.com/Ajajay44/PHISHSIM-phishing-email-generator.git
+    cd PHISHSIM-phishing-email-generator
     ```
 
 2.  **Install Dependencies**
@@ -45,4 +45,4 @@ This software is developed for **Authorized Security Testing** and **Educational
 Run the script in your terminal:
 
 ```bash
-python smart_phish.py
+python phishsim.py
